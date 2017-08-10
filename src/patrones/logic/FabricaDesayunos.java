@@ -1,7 +1,7 @@
 package patrones.logic;
 
 /**
- * Fabrica concreta
+ * Fabrica abstracta
  * 8/10/2017
  * @author Jose Manuel Ferreira Benavides
  */
