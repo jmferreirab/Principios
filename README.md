@@ -31,5 +31,5 @@ Posible salida del programa con una demostracion con precios aleatorios. No hay 
 
 ***** Diagrama de clase *******
 
-![jpgStatus](Class Diagram.jpg)
+![jpgStatus](Class Diagram.JPG)
 
