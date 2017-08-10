@@ -2,8 +2,8 @@
 
 Integrantes: 
 
- Jose Manuel Ferreira Benavides - 20161020012
-  Juan Sebastian Reyes - 20142020091
+Jose Manuel Ferreira Benavides - 20161020012
+Juan Sebastian Reyes - 20142020091
 
 Ejemplifica el uso de patrones.
 
