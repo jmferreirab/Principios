@@ -1,4 +1,4 @@
-# Modelos de Programacion II. Ejercicio de practica con principio..
+# Modelos de Programacion II. Ejercicio de practica con principios.
 
 Integrantes: 
 
