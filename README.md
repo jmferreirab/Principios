@@ -1,2 +1,2 @@
 # Principios
-Principios Python
+Ejemplifica el uso de patrones.
